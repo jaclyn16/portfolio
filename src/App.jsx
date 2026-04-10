@@ -10,7 +10,7 @@ function App() {
       <h3 style={{ textAlign: "center" }}>Software Developer</h3>
 
       <h2>About Me</h2>
-      <p>I am a full stack developer experienced in building responsive web applications using React, APIs, and databases. I enjoy creating user-friendly interfaces and connecting front-end applications to backend systems.</p>
+      <p>I am a full stack developer who builds responsive web applications using React, APIs, and databases. I focus on creating clean, user-friendly interfaces and connecting front-end applications to backend systems. I enjoy solving problems through code and continuously improving my skills by building real-world projects.</p>
 
       <h2>Skills</h2>
       <div className="skills-container">
@@ -36,14 +36,14 @@ function App() {
 
       <ProjectCard
         title="Food Trucks App"
-          description="Full stack app using API and backend to display food trucks."
+          description="Full stack app using React, Express, and SQL to display and manage food truck data."
           link="https://github.com/jaclyn16/food-trucks-app"
           live="https://food-trucks-app.netlify.app/"
       />
       
       <ProjectCard
         title="Top 10 Beaches"
-          description="Full stack app with database and images of beaches."
+          description="Full stack app with database integration to display and manage beach locations and images."
           link="https://github.com/jaclyn16/top-10-beaches"
           live="https://top-10-beaches.netlify.app/"
         />
