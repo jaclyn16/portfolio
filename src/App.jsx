@@ -49,10 +49,10 @@ function App() {
         />
         
         <ProjectCard
-        title="Product Feedback App (🚧 In Progress)"
-          description="Building a full stack app where users can submit and manage product feedback."
+        title="Product Feedback App"
+          description="Full stack app that allows users to submit and manage product feedback with dynamic updates, built using React, Express, and a database."
           link="https://github.com/jaclyn16/product-feedback-app"
-          live="#"
+          live="https://product-feedback-app16.netlify.app/"
         />
 
 
